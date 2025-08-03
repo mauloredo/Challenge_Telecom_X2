@@ -141,9 +141,3 @@ Las variables con mayor impacto en la predicción de cancelación fueron:
 -   **Utilizar el modelo predictivo para campañas de retención dirigidas:** Identificar a los clientes con alta probabilidad de `churn` (según el modelo) para ofrecerles atención personalizada, ofertas especiales o soluciones a sus posibles problemas.
 
 ---
-
-## Cómo Replicar el Proyecto
-
-Para ejecutar este proyecto, siga los siguientes pasos:
-
-1.  Clone este repositorio.
